@@ -1,0 +1,8 @@
+{
+  "name": "ready frensh for female",
+  "description": "A sophisticated French portfolio website with a warm, elegant theme and a responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

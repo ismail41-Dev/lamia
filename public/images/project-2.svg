@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#FAF4F4"/>
+  <rect x="100" y="100" width="1000" height="600" rx="20" fill="#A87676"/>
+  <rect x="120" y="150" width="960" height="510" rx="10" fill="#CA8787"/>
+  <rect x="100" y="100" width="1000" height="40" rx="2" fill="#5A3536"/>
+  <circle cx="120" cy="120" r="6" fill="#D4627A"/>
+  <circle cx="140" cy="120" r="6" fill="#E1ACAC"/>
+  <circle cx="160" cy="120" r="6" fill="#D4627A"/>
+  <text x="600" y="400" font-family="sans-serif" font-weight="bold" font-size="24" fill="#FFFFFF" text-anchor="middle">Dashboard View - Project Alpha</text>
+</svg>
